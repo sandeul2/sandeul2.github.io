@@ -3,7 +3,7 @@
 
   <p align="center">
 
-Template Name: Laura
-Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+<h1 align="center">Template Name: Laura</h1>
+<h1 align="center">Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/</h1>
+<h1 align="center">Author: BootstrapMade.com</h1>
+<h1 align="center">License: https://bootstrapmade.com/license/</h1>
