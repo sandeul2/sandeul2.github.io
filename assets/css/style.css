@@ -865,6 +865,12 @@ section {
   background-color: #ffb727;
 }
 
+.swiper-slide embed {
+  width: 100%; /* 원하는 너비로 조정 */
+  height: 100%; /* 원하는 높이로 조정 */
+}
+
+
 @media (min-width: 992px) {
   .testimonials .testimonial-item p {
     width: 80%;
